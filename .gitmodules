@@ -1,0 +1,3 @@
+[submodule "nolibc"]
+	path = nolibc
+	url = https://github.com/pranith/nolibc
